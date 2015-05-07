@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DCMAKE_INSTALL_PREFIX=/home/lucas/private_ompl/omplapp/build/ccd-prefix;-DCMAKE_BUILD_TYPE=Release;-DCCD_DOUBLE=1;-DCMAKE_C_FLAGS=-fPIC;-GUnix Makefiles;/home/lucas/private_ompl/omplapp/build/ccd-prefix/src/ccd'

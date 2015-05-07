@@ -160,7 +160,7 @@ set(OMPLAPP_LIBRARIES
     ${Boost_FILESYSTEM_LIBRARY}
     ${Boost_SYSTEM_LIBRARY}
     ${OPENGL_LIBRARIES}
-    ${ASSIMP_LIBRARIES}
+    /usr/local/lib/libassimp.so
     ${FCL_LIBRARIES})
 link_directories(${FCL_LIBRARY_DIRS} ${CCD_LIBRARY_DIRS})
 

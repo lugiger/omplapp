@@ -1,0 +1,3 @@
+repository='external project URL'
+module='http://libccd.danfis.cz/files/libccd-2.0.tar.gz'
+tag='MD5=919415277e3baa1d157e713c0b597ab0'
